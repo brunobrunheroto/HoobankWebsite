@@ -1,8 +1,16 @@
-# React + Vite
+# Hoobank Website
+<p>A modern single page application for a finantial company</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## <ins>Technologies</ins>
+- React JS
+- Vite
+- Tailwind CSS
 
-Currently, two official plugins are available:
+## <ins>How to use </ins>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## <ins>Screenshots of the Project </ins>
+<img src="https://github.com/brunobrunheroto/FullStackRecipeBlog/assets/67275098/7d6385ea-02dd-4f19-9377-583ee035cab9" width="400" />
+
+## <ins>Credits</ins>
+
+- adrianhajdin
