@@ -9,7 +9,7 @@
 ## <ins>How to use </ins>
 
 ## <ins>Screenshots of the Project </ins>
-<img src="https://github.com/brunobrunheroto/FullStackRecipeBlog/assets/67275098/7d6385ea-02dd-4f19-9377-583ee035cab9" width="400" />
+<img src="https://github.com/brunobrunheroto/HoobankWebsite/assets/67275098/0ffc52cf-c71d-4d23-9ead-7ad880637b9f" width="400" />
 
 ## <ins>Credits</ins>
 
